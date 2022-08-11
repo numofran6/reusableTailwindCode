@@ -1,3 +1,5 @@
+// Code for the menu bar toggle
+
 const burger = document.querySelector('#burger');
 const menu = document.querySelector('#menu');
 
