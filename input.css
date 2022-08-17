@@ -5,3 +5,7 @@
 .btn {
   @apply border-2 border-red-500 text-red-500 px-3 py-0.5 rounded-full text-xs font-bold uppercase tracking-wide hover:bg-red-500 hover:text-gray-100 transition ease-out duration-300;
 }
+
+.loadbtn {
+  @apply font-bold uppercase bg-gray-800 text-white text-xs p-2 rounded-full hover:text-black hover:bg-white hover:shadow-md transition ease-out duration-300;
+}
